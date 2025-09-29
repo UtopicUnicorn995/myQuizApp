@@ -1,7 +1,7 @@
 import { useSession } from "@/src/context/ctx";
 import quizData from '@/src/data/quizzes_custom_1000_unique.json';
 import { useCallback, useEffect, useState } from "react";
-import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
+import { ScrollView, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 
 export default function Game() {
     const { userScore, addScore, doneQuestions, addDoneQuestion, resetSession } = useSession();
@@ -68,7 +68,7 @@ export default function Game() {
     // If no category chosen, show category picker
     if (!category) {
         return (
-            <View style={styles.container}>
+            <ScrollView style={styles.container}>
                 <Text style={styles.title}>Choose a Category</Text>
                 <TouchableOpacity style={styles.resetButton} onPress={resetSession}>
                     <Text style={styles.resetText}>🔄 Reset Game</Text>
@@ -84,7 +84,7 @@ export default function Game() {
                         <Text style={styles.categoryText}>{cat}</Text>
                     </TouchableOpacity>
                 ))}
-            </View>
+            </ScrollView>
         );
     }
 
