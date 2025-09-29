@@ -160028,5 +160028,3205 @@
       "902"
     ],
     "answer": "903"
+  },
+  {
+    "id": 10001,
+    "uuid": "1c5f2a07-df83-4524-abe9-7ce17c70ee88",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Which organelle is responsible for packaging and modifying proteins in eukaryotic cells?",
+    "options": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "id": 10002,
+    "uuid": "9b025e34-d629-438f-b906-056cff7b48bc",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "What is the semi-fluid substance inside the cell that surrounds organelles?",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": "Cytoplasm"
+  },
+  {
+    "id": 10003,
+    "uuid": "8b3d448f-b7e2-4cc7-9db8-325b8be0f220",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which part of the cell controls most activities and stores genetic information?",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 10004,
+    "uuid": "1bb77714-8a05-40d5-ac39-1b4afeb1684b",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which organelle is responsible for breaking down waste and cellular debris?",
+    "options": [
+      "Mitochondria",
+      "Lysosome",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "id": 10005,
+    "uuid": "9e09ebe6-4856-42f9-9bce-3b1358c95a72",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 10006,
+    "uuid": "8027835b-3bdb-4df2-92d5-0bac1631ed90",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Who is considered the father of modern genetics?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Robert Hooke"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 10007,
+    "uuid": "e51adc39-cd48-4c38-ba0e-fbed9ad67626",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which base pairs with adenine in DNA?",
+    "options": [
+      "Guanine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "answer": "Thymine"
+  },
+  {
+    "id": 10008,
+    "uuid": "a733c720-05ea-4920-aa31-7db85597fd0d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "What is the shape of DNA described as?",
+    "options": [
+      "Triple helix",
+      "Double helix",
+      "Single strand",
+      "Spiral ladder"
+    ],
+    "answer": "Double helix"
+  },
+  {
+    "id": 10009,
+    "uuid": "fe4ba1a7-03e0-44d8-ad49-de1ee98227a3",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which type of RNA carries amino acids to ribosomes?",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "answer": "tRNA"
+  },
+  {
+    "id": 10010,
+    "uuid": "809b13e9-a62a-450b-9266-b0d34d7f2aea",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which process creates gametes with half the number of chromosomes?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 10011,
+    "uuid": "cb454e82-facd-46c3-b020-62d16c787424",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Which part of the human brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 10012,
+    "uuid": "4c37470f-469e-42f7-9282-8a981b9dd5fe",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which blood vessels carry blood away from the heart?",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "answer": "Arteries"
+  },
+  {
+    "id": 10013,
+    "uuid": "f0c4b65c-e295-4411-84da-ccfebd9a2ffc",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which protein in red blood cells carries oxygen?",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": 10014,
+    "uuid": "f21e80ed-0192-4f21-8a6c-a0c766b2838e",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which organ is primarily responsible for detoxification?",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Pancreas"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 10015,
+    "uuid": "82497d8f-ba75-48ae-8c44-eba1f7242721",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which gland regulates metabolism through hormone secretion?",
+    "options": [
+      "Adrenal",
+      "Thyroid",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "answer": "Thyroid"
+  },
+  {
+    "id": 10016,
+    "uuid": "d87526a7-2571-4519-843a-11364a52844d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "What term describes organisms that produce their own food?",
+    "options": [
+      "Consumers",
+      "Decomposers",
+      "Producers",
+      "Parasites"
+    ],
+    "answer": "Producers"
+  },
+  {
+    "id": 10017,
+    "uuid": "f54fe091-643f-4bc4-beb0-702de86b2838",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which biome is characterized by permafrost?",
+    "options": [
+      "Desert",
+      "Savanna",
+      "Tundra",
+      "Rainforest"
+    ],
+    "answer": "Tundra"
+  },
+  {
+    "id": 10018,
+    "uuid": "ad879253-a173-4a13-876d-afcf29f83a1f",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "What is the main source of energy for almost all ecosystems?",
+    "options": [
+      "Wind",
+      "Water",
+      "Sunlight",
+      "Soil"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "id": 10019,
+    "uuid": "d6e2f595-906d-429a-9715-08cd4e2d6c02",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "What is the symbiotic relationship where both species benefit?",
+    "options": [
+      "Parasitism",
+      "Commensalism",
+      "Mutualism",
+      "Predation"
+    ],
+    "answer": "Mutualism"
+  },
+  {
+    "id": 10020,
+    "uuid": "3fcb3f36-96ed-40cc-a726-dc64c030d8da",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 10021,
+    "uuid": "b7657e80-ebaa-496e-b547-f777fc6a6251",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Who proposed the theory of natural selection?",
+    "options": [
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Robert Hooke"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 10022,
+    "uuid": "19af4fb4-85a3-419a-ad09-ff92925e0fab",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "What term describes structures that are similar due to shared ancestry?",
+    "options": [
+      "Analogous",
+      "Homologous",
+      "Vestigial",
+      "Derived"
+    ],
+    "answer": "Homologous"
+  },
+  {
+    "id": 10023,
+    "uuid": "7e0c9369-c7c6-4010-b278-6f9ac150933e",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which term refers to the random change in allele frequency in small populations?",
+    "options": [
+      "Natural selection",
+      "Genetic drift",
+      "Mutation",
+      "Speciation"
+    ],
+    "answer": "Genetic drift"
+  },
+  {
+    "id": 10024,
+    "uuid": "b2a0a3f6-3370-424e-84cc-6b7a4f728598",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "What is the preserved remains of ancient organisms called?",
+    "options": [
+      "Fossil",
+      "Mineral",
+      "Imprint",
+      "Sediment"
+    ],
+    "answer": "Fossil"
+  },
+  {
+    "id": 10025,
+    "uuid": "75450844-75cb-447c-9a8a-37deb2021507",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which islands did Darwin study finches that influenced his theory?",
+    "options": [
+      "Hawaiian",
+      "Gal\u00e1pagos",
+      "Philippines",
+      "Caribbean"
+    ],
+    "answer": "Gal\u00e1pagos"
+  },
+  {
+    "id": 10026,
+    "uuid": "c0acf0f5-28f2-4eda-a3a6-45a600c1488d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Which organelle is responsible for packaging and modifying proteins in eukaryotic cells? [Set 1]",
+    "options": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "id": 10027,
+    "uuid": "785972a6-7035-42ff-8971-ef28b2f1e375",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "What is the semi-fluid substance inside the cell that surrounds organelles? [Set 1]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": "Cytoplasm"
+  },
+  {
+    "id": 10028,
+    "uuid": "fbcc50bc-5e17-464a-b213-33709b3abf67",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which part of the cell controls most activities and stores genetic information? [Set 1]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 10029,
+    "uuid": "c36a5805-e99d-4bd3-af0a-8c3936e6a144",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which organelle is responsible for breaking down waste and cellular debris? [Set 1]",
+    "options": [
+      "Mitochondria",
+      "Lysosome",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "id": 10030,
+    "uuid": "257faca0-5d3d-472c-af1f-806c61308eab",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "What is the powerhouse of the cell? [Set 1]",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 10031,
+    "uuid": "a87488d8-434a-4dbf-a3bb-bf5726fb708a",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Who is considered the father of modern genetics? [Set 1]",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Robert Hooke"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 10032,
+    "uuid": "93a43a58-d5b2-4367-a04b-6f96b8ae42a8",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which base pairs with adenine in DNA? [Set 1]",
+    "options": [
+      "Guanine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "answer": "Thymine"
+  },
+  {
+    "id": 10033,
+    "uuid": "de25804f-1405-4aa3-9519-f67a34e4e419",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "What is the shape of DNA described as? [Set 1]",
+    "options": [
+      "Triple helix",
+      "Double helix",
+      "Single strand",
+      "Spiral ladder"
+    ],
+    "answer": "Double helix"
+  },
+  {
+    "id": 10034,
+    "uuid": "7fcf3923-1c74-473d-b0ad-00cd25177103",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which type of RNA carries amino acids to ribosomes? [Set 1]",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "answer": "tRNA"
+  },
+  {
+    "id": 10035,
+    "uuid": "c0ce6d50-63f5-4ba8-a65a-3bea804aa3a6",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which process creates gametes with half the number of chromosomes? [Set 1]",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 10036,
+    "uuid": "8f4af531-003a-4e18-946c-1e755e764ff8",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Which part of the human brain controls balance and coordination? [Set 1]",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 10037,
+    "uuid": "f5f84e49-5f17-4599-866a-a83ba3bec4a3",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which blood vessels carry blood away from the heart? [Set 1]",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "answer": "Arteries"
+  },
+  {
+    "id": 10038,
+    "uuid": "35233856-83fc-4766-ae28-f0374bdc76e4",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which protein in red blood cells carries oxygen? [Set 1]",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": 10039,
+    "uuid": "559ec610-fc8c-4d2f-b5bd-770d42fc1967",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which organ is primarily responsible for detoxification? [Set 1]",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Pancreas"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 10040,
+    "uuid": "f30f70a7-69ad-4ae5-b7b0-0691ea3730fd",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which gland regulates metabolism through hormone secretion? [Set 1]",
+    "options": [
+      "Adrenal",
+      "Thyroid",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "answer": "Thyroid"
+  },
+  {
+    "id": 10041,
+    "uuid": "1e143e0c-5b29-4a28-8366-87855f093aed",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "What term describes organisms that produce their own food? [Set 1]",
+    "options": [
+      "Consumers",
+      "Decomposers",
+      "Producers",
+      "Parasites"
+    ],
+    "answer": "Producers"
+  },
+  {
+    "id": 10042,
+    "uuid": "aa96ad46-b875-4fa4-aa19-6666bf1e385a",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which biome is characterized by permafrost? [Set 1]",
+    "options": [
+      "Desert",
+      "Savanna",
+      "Tundra",
+      "Rainforest"
+    ],
+    "answer": "Tundra"
+  },
+  {
+    "id": 10043,
+    "uuid": "5ca9a760-2f6a-41a6-9fdc-35f6d7a2bdf9",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "What is the main source of energy for almost all ecosystems? [Set 1]",
+    "options": [
+      "Wind",
+      "Water",
+      "Sunlight",
+      "Soil"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "id": 10044,
+    "uuid": "47c5db5c-0e48-445c-bcd8-c1b3edbe0e1a",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "What is the symbiotic relationship where both species benefit? [Set 1]",
+    "options": [
+      "Parasitism",
+      "Commensalism",
+      "Mutualism",
+      "Predation"
+    ],
+    "answer": "Mutualism"
+  },
+  {
+    "id": 10045,
+    "uuid": "a13116c3-8a56-4f24-8099-0ad4e8710197",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which gas do plants absorb during photosynthesis? [Set 1]",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 10046,
+    "uuid": "02cd0cca-2a50-4377-be80-f21d4eff14ef",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Who proposed the theory of natural selection? [Set 1]",
+    "options": [
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Robert Hooke"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 10047,
+    "uuid": "1b863f18-fb9c-4b1c-8558-c5d1eb40938d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "What term describes structures that are similar due to shared ancestry? [Set 1]",
+    "options": [
+      "Analogous",
+      "Homologous",
+      "Vestigial",
+      "Derived"
+    ],
+    "answer": "Homologous"
+  },
+  {
+    "id": 10048,
+    "uuid": "f083260e-2f90-4f56-959e-2cd2f422f5e7",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which term refers to the random change in allele frequency in small populations? [Set 1]",
+    "options": [
+      "Natural selection",
+      "Genetic drift",
+      "Mutation",
+      "Speciation"
+    ],
+    "answer": "Genetic drift"
+  },
+  {
+    "id": 10049,
+    "uuid": "e5edeab0-4e75-4234-aede-b111810c3a0d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "What is the preserved remains of ancient organisms called? [Set 1]",
+    "options": [
+      "Fossil",
+      "Mineral",
+      "Imprint",
+      "Sediment"
+    ],
+    "answer": "Fossil"
+  },
+  {
+    "id": 10050,
+    "uuid": "15bfba51-9bcd-415c-a128-311d4eddf032",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which islands did Darwin study finches that influenced his theory? [Set 1]",
+    "options": [
+      "Hawaiian",
+      "Gal\u00e1pagos",
+      "Philippines",
+      "Caribbean"
+    ],
+    "answer": "Gal\u00e1pagos"
+  },
+  {
+    "id": 10051,
+    "uuid": "74371223-57b0-4bda-a89f-dfc17fd1f9b6",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Which organelle is responsible for packaging and modifying proteins in eukaryotic cells? [Set 2]",
+    "options": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "id": 10052,
+    "uuid": "ca11c96f-0dce-43eb-bd3e-0d809de40d4f",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "What is the semi-fluid substance inside the cell that surrounds organelles? [Set 2]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": "Cytoplasm"
+  },
+  {
+    "id": 10053,
+    "uuid": "e5fe6a87-e86b-41d0-b1df-13706440e95b",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which part of the cell controls most activities and stores genetic information? [Set 2]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 10054,
+    "uuid": "9638ec32-2e14-4b9f-a3b4-b493d2f442c7",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which organelle is responsible for breaking down waste and cellular debris? [Set 2]",
+    "options": [
+      "Mitochondria",
+      "Lysosome",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "id": 10055,
+    "uuid": "270fc522-f959-49c2-a134-a844407a216d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "What is the powerhouse of the cell? [Set 2]",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 10056,
+    "uuid": "4b2dfc2d-6bd9-4940-88d9-5e79c346f512",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Who is considered the father of modern genetics? [Set 2]",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Robert Hooke"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 10057,
+    "uuid": "62ec10f7-2176-472c-9b00-e7e235b4812c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which base pairs with adenine in DNA? [Set 2]",
+    "options": [
+      "Guanine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "answer": "Thymine"
+  },
+  {
+    "id": 10058,
+    "uuid": "3eded719-bccb-4a7c-8b8a-2600b1f1378c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "What is the shape of DNA described as? [Set 2]",
+    "options": [
+      "Triple helix",
+      "Double helix",
+      "Single strand",
+      "Spiral ladder"
+    ],
+    "answer": "Double helix"
+  },
+  {
+    "id": 10059,
+    "uuid": "af2dbf8b-9087-4371-99cc-33e93a87e068",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which type of RNA carries amino acids to ribosomes? [Set 2]",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "answer": "tRNA"
+  },
+  {
+    "id": 10060,
+    "uuid": "1eab9c73-c119-42aa-9598-b8175efcc31d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which process creates gametes with half the number of chromosomes? [Set 2]",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 10061,
+    "uuid": "203dde11-3304-4d03-88c1-e528c06c15be",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Which part of the human brain controls balance and coordination? [Set 2]",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 10062,
+    "uuid": "e2b00c9d-6beb-4706-b235-8d1b42bb96a0",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which blood vessels carry blood away from the heart? [Set 2]",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "answer": "Arteries"
+  },
+  {
+    "id": 10063,
+    "uuid": "2ec16f39-fe92-4444-94a9-abe9afec6941",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which protein in red blood cells carries oxygen? [Set 2]",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": 10064,
+    "uuid": "f6282e54-f5a9-4ce5-86c3-21a35cae9159",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which organ is primarily responsible for detoxification? [Set 2]",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Pancreas"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 10065,
+    "uuid": "2578a8ea-c523-4a43-87fb-39ada9e600a8",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which gland regulates metabolism through hormone secretion? [Set 2]",
+    "options": [
+      "Adrenal",
+      "Thyroid",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "answer": "Thyroid"
+  },
+  {
+    "id": 10066,
+    "uuid": "94557040-a85d-4ce4-b8f6-dbe05ac0880f",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "What term describes organisms that produce their own food? [Set 2]",
+    "options": [
+      "Consumers",
+      "Decomposers",
+      "Producers",
+      "Parasites"
+    ],
+    "answer": "Producers"
+  },
+  {
+    "id": 10067,
+    "uuid": "4ee6d8a3-21f6-4a12-98cf-af166c977bb2",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which biome is characterized by permafrost? [Set 2]",
+    "options": [
+      "Desert",
+      "Savanna",
+      "Tundra",
+      "Rainforest"
+    ],
+    "answer": "Tundra"
+  },
+  {
+    "id": 10068,
+    "uuid": "5fbb2487-ddf1-4784-86b6-7af1a2508291",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "What is the main source of energy for almost all ecosystems? [Set 2]",
+    "options": [
+      "Wind",
+      "Water",
+      "Sunlight",
+      "Soil"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "id": 10069,
+    "uuid": "06f90d2e-ffde-4764-bccc-b0c787417f30",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "What is the symbiotic relationship where both species benefit? [Set 2]",
+    "options": [
+      "Parasitism",
+      "Commensalism",
+      "Mutualism",
+      "Predation"
+    ],
+    "answer": "Mutualism"
+  },
+  {
+    "id": 10070,
+    "uuid": "b8a2fd5c-1523-42a2-8997-d17717092743",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which gas do plants absorb during photosynthesis? [Set 2]",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 10071,
+    "uuid": "b3ce560b-3df4-42d3-bc75-caf1206a9eeb",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Who proposed the theory of natural selection? [Set 2]",
+    "options": [
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Robert Hooke"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 10072,
+    "uuid": "0c102989-dc6c-4c82-8755-c7b77fa617d4",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "What term describes structures that are similar due to shared ancestry? [Set 2]",
+    "options": [
+      "Analogous",
+      "Homologous",
+      "Vestigial",
+      "Derived"
+    ],
+    "answer": "Homologous"
+  },
+  {
+    "id": 10073,
+    "uuid": "c1720644-7e0c-415d-9c97-18aea0051747",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which term refers to the random change in allele frequency in small populations? [Set 2]",
+    "options": [
+      "Natural selection",
+      "Genetic drift",
+      "Mutation",
+      "Speciation"
+    ],
+    "answer": "Genetic drift"
+  },
+  {
+    "id": 10074,
+    "uuid": "06eba812-bb0d-42bc-8d72-51ad46684458",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "What is the preserved remains of ancient organisms called? [Set 2]",
+    "options": [
+      "Fossil",
+      "Mineral",
+      "Imprint",
+      "Sediment"
+    ],
+    "answer": "Fossil"
+  },
+  {
+    "id": 10075,
+    "uuid": "4fbbf55e-52cc-4d83-bc97-29fa3d8421a6",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which islands did Darwin study finches that influenced his theory? [Set 2]",
+    "options": [
+      "Hawaiian",
+      "Gal\u00e1pagos",
+      "Philippines",
+      "Caribbean"
+    ],
+    "answer": "Gal\u00e1pagos"
+  },
+  {
+    "id": 10076,
+    "uuid": "a7b70435-2220-4326-8446-cace09e7e453",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Which organelle is responsible for packaging and modifying proteins in eukaryotic cells? [Set 3]",
+    "options": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "id": 10077,
+    "uuid": "9ab4decf-6a83-4f8b-a7b3-c6e316c546ec",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "What is the semi-fluid substance inside the cell that surrounds organelles? [Set 3]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": "Cytoplasm"
+  },
+  {
+    "id": 10078,
+    "uuid": "fb71f2da-438a-40cd-b22b-7c8d42362db6",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which part of the cell controls most activities and stores genetic information? [Set 3]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 10079,
+    "uuid": "b6653ae4-1fa8-4493-ae5e-ba277f2ae938",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which organelle is responsible for breaking down waste and cellular debris? [Set 3]",
+    "options": [
+      "Mitochondria",
+      "Lysosome",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "id": 10080,
+    "uuid": "6ed9b918-031c-477f-bc06-fd3bd19b3612",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "What is the powerhouse of the cell? [Set 3]",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 10081,
+    "uuid": "1ce789cd-d3b0-4a1a-940a-dc89b05cbbdb",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Who is considered the father of modern genetics? [Set 3]",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Robert Hooke"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 10082,
+    "uuid": "694787e2-b5e0-46b7-b391-5cd0336ca220",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which base pairs with adenine in DNA? [Set 3]",
+    "options": [
+      "Guanine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "answer": "Thymine"
+  },
+  {
+    "id": 10083,
+    "uuid": "d8668a9a-f036-4729-85f8-87c9ba0e0e1b",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "What is the shape of DNA described as? [Set 3]",
+    "options": [
+      "Triple helix",
+      "Double helix",
+      "Single strand",
+      "Spiral ladder"
+    ],
+    "answer": "Double helix"
+  },
+  {
+    "id": 10084,
+    "uuid": "0a90ca91-dd1f-48df-86c2-9a15a855a739",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which type of RNA carries amino acids to ribosomes? [Set 3]",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "answer": "tRNA"
+  },
+  {
+    "id": 10085,
+    "uuid": "219aa735-5f6d-4d53-9cd9-8d9dd5d7cf7c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which process creates gametes with half the number of chromosomes? [Set 3]",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 10086,
+    "uuid": "2b1847eb-a21a-4a94-b23f-d6ec4db3ad3d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Which part of the human brain controls balance and coordination? [Set 3]",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 10087,
+    "uuid": "7837a43b-b67e-4233-8d27-20d375465069",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which blood vessels carry blood away from the heart? [Set 3]",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "answer": "Arteries"
+  },
+  {
+    "id": 10088,
+    "uuid": "81c76c04-9e82-4e8a-83d3-e76740e73cdb",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which protein in red blood cells carries oxygen? [Set 3]",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": 10089,
+    "uuid": "4caae6c7-44c7-401d-9614-42bdad569771",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which organ is primarily responsible for detoxification? [Set 3]",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Pancreas"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 10090,
+    "uuid": "655afaef-ddc2-41be-b864-7501cc341b7c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which gland regulates metabolism through hormone secretion? [Set 3]",
+    "options": [
+      "Adrenal",
+      "Thyroid",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "answer": "Thyroid"
+  },
+  {
+    "id": 10091,
+    "uuid": "3f9d3d4d-8d57-4f21-b3c8-e96f9b3a2360",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "What term describes organisms that produce their own food? [Set 3]",
+    "options": [
+      "Consumers",
+      "Decomposers",
+      "Producers",
+      "Parasites"
+    ],
+    "answer": "Producers"
+  },
+  {
+    "id": 10092,
+    "uuid": "d817e476-1e00-4cdc-9281-1293ff73ac78",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which biome is characterized by permafrost? [Set 3]",
+    "options": [
+      "Desert",
+      "Savanna",
+      "Tundra",
+      "Rainforest"
+    ],
+    "answer": "Tundra"
+  },
+  {
+    "id": 10093,
+    "uuid": "c4272467-49b2-4e21-aa6d-2de301b3c015",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "What is the main source of energy for almost all ecosystems? [Set 3]",
+    "options": [
+      "Wind",
+      "Water",
+      "Sunlight",
+      "Soil"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "id": 10094,
+    "uuid": "6ed92a1b-8369-4c56-b2d4-f0b0eec9c5b4",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "What is the symbiotic relationship where both species benefit? [Set 3]",
+    "options": [
+      "Parasitism",
+      "Commensalism",
+      "Mutualism",
+      "Predation"
+    ],
+    "answer": "Mutualism"
+  },
+  {
+    "id": 10095,
+    "uuid": "159f4dfb-76b4-4d97-8219-ed8dce9adab7",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which gas do plants absorb during photosynthesis? [Set 3]",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 10096,
+    "uuid": "824a82a6-994c-4deb-af08-131f1d56b8cd",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Who proposed the theory of natural selection? [Set 3]",
+    "options": [
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Robert Hooke"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 10097,
+    "uuid": "ad994e2d-e015-41ff-a6f7-068f967aad4e",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "What term describes structures that are similar due to shared ancestry? [Set 3]",
+    "options": [
+      "Analogous",
+      "Homologous",
+      "Vestigial",
+      "Derived"
+    ],
+    "answer": "Homologous"
+  },
+  {
+    "id": 10098,
+    "uuid": "84828e6e-3204-4d0b-9c67-cd934aa8052c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which term refers to the random change in allele frequency in small populations? [Set 3]",
+    "options": [
+      "Natural selection",
+      "Genetic drift",
+      "Mutation",
+      "Speciation"
+    ],
+    "answer": "Genetic drift"
+  },
+  {
+    "id": 10099,
+    "uuid": "8db5bda3-7a48-40db-979c-7d2d44155210",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "What is the preserved remains of ancient organisms called? [Set 3]",
+    "options": [
+      "Fossil",
+      "Mineral",
+      "Imprint",
+      "Sediment"
+    ],
+    "answer": "Fossil"
+  },
+  {
+    "id": 10100,
+    "uuid": "014ec381-2c21-4098-b47a-9aa06774833d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which islands did Darwin study finches that influenced his theory? [Set 3]",
+    "options": [
+      "Hawaiian",
+      "Gal\u00e1pagos",
+      "Philippines",
+      "Caribbean"
+    ],
+    "answer": "Gal\u00e1pagos"
+  },
+  {
+    "id": 10101,
+    "uuid": "b6af1e15-609b-4ff8-8f6a-872a2b7a1ab7",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Which organelle is responsible for packaging and modifying proteins in eukaryotic cells? [Set 4]",
+    "options": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "id": 10102,
+    "uuid": "d27ce65a-3593-40b9-8324-57e6061a5b8e",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "What is the semi-fluid substance inside the cell that surrounds organelles? [Set 4]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": "Cytoplasm"
+  },
+  {
+    "id": 10103,
+    "uuid": "4a2a106e-c9b6-4059-a6d1-9e44e8d0e3db",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which part of the cell controls most activities and stores genetic information? [Set 4]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 10104,
+    "uuid": "c52951ae-5549-41c4-92ee-3a0ebfa129e8",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which organelle is responsible for breaking down waste and cellular debris? [Set 4]",
+    "options": [
+      "Mitochondria",
+      "Lysosome",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "id": 10105,
+    "uuid": "7ec0d5a0-a6e9-427c-b8f7-49f1e5320845",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "What is the powerhouse of the cell? [Set 4]",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 10106,
+    "uuid": "b5db63e5-5ac2-45da-96a5-93748200d577",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Who is considered the father of modern genetics? [Set 4]",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Robert Hooke"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 10107,
+    "uuid": "8848d4f6-5778-4c8d-a7c5-38ac96fa6220",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which base pairs with adenine in DNA? [Set 4]",
+    "options": [
+      "Guanine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "answer": "Thymine"
+  },
+  {
+    "id": 10108,
+    "uuid": "a48869cc-7bc3-4849-a76d-1b3cabdbc1d1",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "What is the shape of DNA described as? [Set 4]",
+    "options": [
+      "Triple helix",
+      "Double helix",
+      "Single strand",
+      "Spiral ladder"
+    ],
+    "answer": "Double helix"
+  },
+  {
+    "id": 10109,
+    "uuid": "b98ee4dc-259d-47f3-b451-c0ed5a4e1362",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which type of RNA carries amino acids to ribosomes? [Set 4]",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "answer": "tRNA"
+  },
+  {
+    "id": 10110,
+    "uuid": "ce32baec-df40-44e4-a385-c2c3ecb70000",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which process creates gametes with half the number of chromosomes? [Set 4]",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 10111,
+    "uuid": "acb92847-94aa-460f-944f-dbe9d9a2b3a4",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Which part of the human brain controls balance and coordination? [Set 4]",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 10112,
+    "uuid": "4dac22cf-701a-4008-bc7e-11e062ae8d67",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which blood vessels carry blood away from the heart? [Set 4]",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "answer": "Arteries"
+  },
+  {
+    "id": 10113,
+    "uuid": "3e6ad8f4-0be1-4e88-b06f-951ba14b9431",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which protein in red blood cells carries oxygen? [Set 4]",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": 10114,
+    "uuid": "5dba28d0-a6d6-4728-b7f3-f0f1facd3643",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which organ is primarily responsible for detoxification? [Set 4]",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Pancreas"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 10115,
+    "uuid": "006911e0-8bde-474e-967c-bacc44f6b18b",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which gland regulates metabolism through hormone secretion? [Set 4]",
+    "options": [
+      "Adrenal",
+      "Thyroid",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "answer": "Thyroid"
+  },
+  {
+    "id": 10116,
+    "uuid": "265427ec-ec8c-4d10-9502-b66c5b1d1420",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "What term describes organisms that produce their own food? [Set 4]",
+    "options": [
+      "Consumers",
+      "Decomposers",
+      "Producers",
+      "Parasites"
+    ],
+    "answer": "Producers"
+  },
+  {
+    "id": 10117,
+    "uuid": "ad1c830c-78df-4f84-86f7-8454aeac1d21",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which biome is characterized by permafrost? [Set 4]",
+    "options": [
+      "Desert",
+      "Savanna",
+      "Tundra",
+      "Rainforest"
+    ],
+    "answer": "Tundra"
+  },
+  {
+    "id": 10118,
+    "uuid": "3db1d93f-4104-4b0b-879a-854ab0294889",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "What is the main source of energy for almost all ecosystems? [Set 4]",
+    "options": [
+      "Wind",
+      "Water",
+      "Sunlight",
+      "Soil"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "id": 10119,
+    "uuid": "b87d8385-1da9-4e77-aaef-b6f16257d2ab",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "What is the symbiotic relationship where both species benefit? [Set 4]",
+    "options": [
+      "Parasitism",
+      "Commensalism",
+      "Mutualism",
+      "Predation"
+    ],
+    "answer": "Mutualism"
+  },
+  {
+    "id": 10120,
+    "uuid": "248cfa69-685f-42b9-b82e-7a712697c18f",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which gas do plants absorb during photosynthesis? [Set 4]",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 10121,
+    "uuid": "a0423ae5-4081-47ac-8163-2df07b97e3e9",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Who proposed the theory of natural selection? [Set 4]",
+    "options": [
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Robert Hooke"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 10122,
+    "uuid": "6a92b2c9-a4ed-407d-8aeb-e3367dcb994c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "What term describes structures that are similar due to shared ancestry? [Set 4]",
+    "options": [
+      "Analogous",
+      "Homologous",
+      "Vestigial",
+      "Derived"
+    ],
+    "answer": "Homologous"
+  },
+  {
+    "id": 10123,
+    "uuid": "db3eaa99-0c00-4945-aa90-7b3deb805d9e",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which term refers to the random change in allele frequency in small populations? [Set 4]",
+    "options": [
+      "Natural selection",
+      "Genetic drift",
+      "Mutation",
+      "Speciation"
+    ],
+    "answer": "Genetic drift"
+  },
+  {
+    "id": 10124,
+    "uuid": "55ffb9e9-43bd-4367-8478-a8c82ff85af3",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "What is the preserved remains of ancient organisms called? [Set 4]",
+    "options": [
+      "Fossil",
+      "Mineral",
+      "Imprint",
+      "Sediment"
+    ],
+    "answer": "Fossil"
+  },
+  {
+    "id": 10125,
+    "uuid": "06ab68d4-06bd-4827-919b-32ab4e35d913",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which islands did Darwin study finches that influenced his theory? [Set 4]",
+    "options": [
+      "Hawaiian",
+      "Gal\u00e1pagos",
+      "Philippines",
+      "Caribbean"
+    ],
+    "answer": "Gal\u00e1pagos"
+  },
+  {
+    "id": 10126,
+    "uuid": "dc8c1776-127a-4398-81ad-f7ecf0cae745",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Which organelle is responsible for packaging and modifying proteins in eukaryotic cells? [Set 5]",
+    "options": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "id": 10127,
+    "uuid": "3c99b059-432c-4e5e-914f-39eefbf69cc1",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "What is the semi-fluid substance inside the cell that surrounds organelles? [Set 5]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": "Cytoplasm"
+  },
+  {
+    "id": 10128,
+    "uuid": "4840fe51-c1f4-4861-b2c5-024ee4329760",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which part of the cell controls most activities and stores genetic information? [Set 5]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 10129,
+    "uuid": "9400a7d7-5784-4e89-a2c0-61da8e89428d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which organelle is responsible for breaking down waste and cellular debris? [Set 5]",
+    "options": [
+      "Mitochondria",
+      "Lysosome",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "id": 10130,
+    "uuid": "2c08ee2a-a13a-4f5e-9799-ac5e51644d74",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "What is the powerhouse of the cell? [Set 5]",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 10131,
+    "uuid": "41ccc6ef-7b63-4f7d-ad47-e26302947126",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Who is considered the father of modern genetics? [Set 5]",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Robert Hooke"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 10132,
+    "uuid": "5b84882f-0211-46b7-9c97-8cd0b96d2683",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which base pairs with adenine in DNA? [Set 5]",
+    "options": [
+      "Guanine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "answer": "Thymine"
+  },
+  {
+    "id": 10133,
+    "uuid": "e5a051fa-d4d7-45b5-94f0-afe61a8fc5ec",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "What is the shape of DNA described as? [Set 5]",
+    "options": [
+      "Triple helix",
+      "Double helix",
+      "Single strand",
+      "Spiral ladder"
+    ],
+    "answer": "Double helix"
+  },
+  {
+    "id": 10134,
+    "uuid": "dcbbeaa7-2e67-4fa6-b269-74c88d67f692",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which type of RNA carries amino acids to ribosomes? [Set 5]",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "answer": "tRNA"
+  },
+  {
+    "id": 10135,
+    "uuid": "e0df7a6d-f9a9-4af5-8c70-80b006ce2743",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which process creates gametes with half the number of chromosomes? [Set 5]",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 10136,
+    "uuid": "b43b8d0f-5aac-4266-9353-eaf5f06b9a2a",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Which part of the human brain controls balance and coordination? [Set 5]",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 10137,
+    "uuid": "57d437cc-e845-4f1b-99ae-21c4df7027d2",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which blood vessels carry blood away from the heart? [Set 5]",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "answer": "Arteries"
+  },
+  {
+    "id": 10138,
+    "uuid": "b9dd8eb7-596e-4073-836c-bf0640fda8e0",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which protein in red blood cells carries oxygen? [Set 5]",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": 10139,
+    "uuid": "84d8dccc-eda7-451e-9e2d-8b1fd9b69f92",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which organ is primarily responsible for detoxification? [Set 5]",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Pancreas"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 10140,
+    "uuid": "765cc912-9ceb-42ba-a7be-8e955677db5f",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which gland regulates metabolism through hormone secretion? [Set 5]",
+    "options": [
+      "Adrenal",
+      "Thyroid",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "answer": "Thyroid"
+  },
+  {
+    "id": 10141,
+    "uuid": "fa4dcdee-bbce-4a6c-a2e7-5f81666f7207",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "What term describes organisms that produce their own food? [Set 5]",
+    "options": [
+      "Consumers",
+      "Decomposers",
+      "Producers",
+      "Parasites"
+    ],
+    "answer": "Producers"
+  },
+  {
+    "id": 10142,
+    "uuid": "17144ac9-0693-499f-b6c9-3d28f48360e2",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which biome is characterized by permafrost? [Set 5]",
+    "options": [
+      "Desert",
+      "Savanna",
+      "Tundra",
+      "Rainforest"
+    ],
+    "answer": "Tundra"
+  },
+  {
+    "id": 10143,
+    "uuid": "54468629-ede8-4fd7-8b72-2b8502bcb95c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "What is the main source of energy for almost all ecosystems? [Set 5]",
+    "options": [
+      "Wind",
+      "Water",
+      "Sunlight",
+      "Soil"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "id": 10144,
+    "uuid": "864417eb-5e58-44ee-916e-6192513212af",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "What is the symbiotic relationship where both species benefit? [Set 5]",
+    "options": [
+      "Parasitism",
+      "Commensalism",
+      "Mutualism",
+      "Predation"
+    ],
+    "answer": "Mutualism"
+  },
+  {
+    "id": 10145,
+    "uuid": "38241944-a94c-453e-8c3e-46671d894008",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which gas do plants absorb during photosynthesis? [Set 5]",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 10146,
+    "uuid": "3c235d74-b1e3-4f48-9ef7-7259cadb8ad0",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Who proposed the theory of natural selection? [Set 5]",
+    "options": [
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Robert Hooke"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 10147,
+    "uuid": "ba855ad0-df0b-4ca3-87e0-4481a9b03471",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "What term describes structures that are similar due to shared ancestry? [Set 5]",
+    "options": [
+      "Analogous",
+      "Homologous",
+      "Vestigial",
+      "Derived"
+    ],
+    "answer": "Homologous"
+  },
+  {
+    "id": 10148,
+    "uuid": "df0d22c5-4266-4b16-bd3b-76b79f1342b3",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which term refers to the random change in allele frequency in small populations? [Set 5]",
+    "options": [
+      "Natural selection",
+      "Genetic drift",
+      "Mutation",
+      "Speciation"
+    ],
+    "answer": "Genetic drift"
+  },
+  {
+    "id": 10149,
+    "uuid": "380fa34d-9142-461e-8aad-1df05ca584bf",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "What is the preserved remains of ancient organisms called? [Set 5]",
+    "options": [
+      "Fossil",
+      "Mineral",
+      "Imprint",
+      "Sediment"
+    ],
+    "answer": "Fossil"
+  },
+  {
+    "id": 10150,
+    "uuid": "3ced7bb4-a4d4-46b7-ac09-cb7916fb872c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which islands did Darwin study finches that influenced his theory? [Set 5]",
+    "options": [
+      "Hawaiian",
+      "Gal\u00e1pagos",
+      "Philippines",
+      "Caribbean"
+    ],
+    "answer": "Gal\u00e1pagos"
+  },
+  {
+    "id": 10151,
+    "uuid": "e9de7b49-3c21-494b-a3a6-304a23d7dc0f",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Which organelle is responsible for packaging and modifying proteins in eukaryotic cells? [Set 6]",
+    "options": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "id": 10152,
+    "uuid": "aca09fc3-b463-45ba-95cb-b4fee785f481",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "What is the semi-fluid substance inside the cell that surrounds organelles? [Set 6]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": "Cytoplasm"
+  },
+  {
+    "id": 10153,
+    "uuid": "fc153428-1cc7-4666-bf23-25f9ccb5b198",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which part of the cell controls most activities and stores genetic information? [Set 6]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 10154,
+    "uuid": "159dd61f-210e-49e8-878c-37f800a1fda1",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which organelle is responsible for breaking down waste and cellular debris? [Set 6]",
+    "options": [
+      "Mitochondria",
+      "Lysosome",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "id": 10155,
+    "uuid": "a0f5059f-fb25-4ff6-aee5-72c28fc69028",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "What is the powerhouse of the cell? [Set 6]",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 10156,
+    "uuid": "279c18ec-c0bd-4534-8984-31d19f2c5ead",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Who is considered the father of modern genetics? [Set 6]",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Robert Hooke"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 10157,
+    "uuid": "984379b8-8d4f-4e4a-8841-3780c3e5590d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which base pairs with adenine in DNA? [Set 6]",
+    "options": [
+      "Guanine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "answer": "Thymine"
+  },
+  {
+    "id": 10158,
+    "uuid": "eeea495a-1f94-4d76-98cc-72f03483f190",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "What is the shape of DNA described as? [Set 6]",
+    "options": [
+      "Triple helix",
+      "Double helix",
+      "Single strand",
+      "Spiral ladder"
+    ],
+    "answer": "Double helix"
+  },
+  {
+    "id": 10159,
+    "uuid": "36d866b7-912d-4808-aeca-c8f7c7f6e7b6",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which type of RNA carries amino acids to ribosomes? [Set 6]",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "answer": "tRNA"
+  },
+  {
+    "id": 10160,
+    "uuid": "7337e794-6253-4db1-a913-28113a32e8ce",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which process creates gametes with half the number of chromosomes? [Set 6]",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 10161,
+    "uuid": "e75c0aef-3dec-4c80-9f4b-80f13ff876a7",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Which part of the human brain controls balance and coordination? [Set 6]",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 10162,
+    "uuid": "5454a73f-f11a-4aa7-8d00-cb789a732aec",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which blood vessels carry blood away from the heart? [Set 6]",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "answer": "Arteries"
+  },
+  {
+    "id": 10163,
+    "uuid": "5438e3a2-1ce8-48d9-8054-97f746c9bdba",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which protein in red blood cells carries oxygen? [Set 6]",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": 10164,
+    "uuid": "ff89ef40-3072-4ed6-8c39-a2fd7109b8a6",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which organ is primarily responsible for detoxification? [Set 6]",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Pancreas"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 10165,
+    "uuid": "a398ac0e-43e7-4684-9e62-6475a11ce499",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which gland regulates metabolism through hormone secretion? [Set 6]",
+    "options": [
+      "Adrenal",
+      "Thyroid",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "answer": "Thyroid"
+  },
+  {
+    "id": 10166,
+    "uuid": "d559ff78-32a1-40ec-9f9d-ce16304e07c8",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "What term describes organisms that produce their own food? [Set 6]",
+    "options": [
+      "Consumers",
+      "Decomposers",
+      "Producers",
+      "Parasites"
+    ],
+    "answer": "Producers"
+  },
+  {
+    "id": 10167,
+    "uuid": "cfd7828d-08ae-47cf-b535-e9d43a48c070",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which biome is characterized by permafrost? [Set 6]",
+    "options": [
+      "Desert",
+      "Savanna",
+      "Tundra",
+      "Rainforest"
+    ],
+    "answer": "Tundra"
+  },
+  {
+    "id": 10168,
+    "uuid": "f3a61e90-6169-4941-a5d3-97dcfad374b0",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "What is the main source of energy for almost all ecosystems? [Set 6]",
+    "options": [
+      "Wind",
+      "Water",
+      "Sunlight",
+      "Soil"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "id": 10169,
+    "uuid": "1be42c64-9e2b-45be-bb75-0238163e1692",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "What is the symbiotic relationship where both species benefit? [Set 6]",
+    "options": [
+      "Parasitism",
+      "Commensalism",
+      "Mutualism",
+      "Predation"
+    ],
+    "answer": "Mutualism"
+  },
+  {
+    "id": 10170,
+    "uuid": "bc7d2f2f-1d8a-417d-a511-c3daf563f4ed",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which gas do plants absorb during photosynthesis? [Set 6]",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 10171,
+    "uuid": "fe950090-b3c9-40ac-8d1f-f4d9efdccc28",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Who proposed the theory of natural selection? [Set 6]",
+    "options": [
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Robert Hooke"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 10172,
+    "uuid": "c2f1ecfd-363e-4336-aee9-b115aebc83af",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "What term describes structures that are similar due to shared ancestry? [Set 6]",
+    "options": [
+      "Analogous",
+      "Homologous",
+      "Vestigial",
+      "Derived"
+    ],
+    "answer": "Homologous"
+  },
+  {
+    "id": 10173,
+    "uuid": "dd40c685-d155-4fb8-9bc9-92826af09e3c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "Which term refers to the random change in allele frequency in small populations? [Set 6]",
+    "options": [
+      "Natural selection",
+      "Genetic drift",
+      "Mutation",
+      "Speciation"
+    ],
+    "answer": "Genetic drift"
+  },
+  {
+    "id": 10174,
+    "uuid": "7d26122f-b3b2-414e-b5d6-05f9d95e0b1a",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "What is the preserved remains of ancient organisms called? [Set 6]",
+    "options": [
+      "Fossil",
+      "Mineral",
+      "Imprint",
+      "Sediment"
+    ],
+    "answer": "Fossil"
+  },
+  {
+    "id": 10175,
+    "uuid": "be8e1325-2082-452e-846a-3c17c977050a",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which islands did Darwin study finches that influenced his theory? [Set 6]",
+    "options": [
+      "Hawaiian",
+      "Gal\u00e1pagos",
+      "Philippines",
+      "Caribbean"
+    ],
+    "answer": "Gal\u00e1pagos"
+  },
+  {
+    "id": 10176,
+    "uuid": "fdbbbfbc-9328-46f6-9557-1c8b0baf2570",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Which organelle is responsible for packaging and modifying proteins in eukaryotic cells? [Set 7]",
+    "options": [
+      "Ribosome",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "id": 10177,
+    "uuid": "87176c62-82d4-43de-82de-eeccb2f3c9b0",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "What is the semi-fluid substance inside the cell that surrounds organelles? [Set 7]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Chloroplast",
+      "Mitochondria"
+    ],
+    "answer": "Cytoplasm"
+  },
+  {
+    "id": 10178,
+    "uuid": "7d6312ac-74cd-4c48-aee3-9568a07e829d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which part of the cell controls most activities and stores genetic information? [Set 7]",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 10179,
+    "uuid": "05d1f53c-9df0-4c51-b3c8-244d1f979257",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which organelle is responsible for breaking down waste and cellular debris? [Set 7]",
+    "options": [
+      "Mitochondria",
+      "Lysosome",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "id": 10180,
+    "uuid": "4265625a-56e3-4ea9-acc1-9dcb3d4aa631",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "What is the powerhouse of the cell? [Set 7]",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Chloroplast"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 10181,
+    "uuid": "48e9dded-2a23-43b2-99f6-b7a97d36d05a",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "Who is considered the father of modern genetics? [Set 7]",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Robert Hooke"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 10182,
+    "uuid": "c4fa7732-dc0e-4b35-95f3-eb4d2b65c178",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which base pairs with adenine in DNA? [Set 7]",
+    "options": [
+      "Guanine",
+      "Cytosine",
+      "Thymine",
+      "Uracil"
+    ],
+    "answer": "Thymine"
+  },
+  {
+    "id": 10183,
+    "uuid": "9676db29-ba61-4960-98bf-6fb9dc19f7bb",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "What is the shape of DNA described as? [Set 7]",
+    "options": [
+      "Triple helix",
+      "Double helix",
+      "Single strand",
+      "Spiral ladder"
+    ],
+    "answer": "Double helix"
+  },
+  {
+    "id": 10184,
+    "uuid": "3d5a62ce-cb2c-4d7b-902a-29f3078cd2aa",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "Which type of RNA carries amino acids to ribosomes? [Set 7]",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "answer": "tRNA"
+  },
+  {
+    "id": 10185,
+    "uuid": "656e5607-c070-40b2-8f7f-3f527e3f1a1b",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which process creates gametes with half the number of chromosomes? [Set 7]",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 10186,
+    "uuid": "a0efb8b8-1f16-4f3a-9e20-0c170755765d",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Which part of the human brain controls balance and coordination? [Set 7]",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 10187,
+    "uuid": "c2d78bd0-1b74-4afb-a6fb-c50111d6a676",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "Which blood vessels carry blood away from the heart? [Set 7]",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Venules"
+    ],
+    "answer": "Arteries"
+  },
+  {
+    "id": 10188,
+    "uuid": "793d647a-1762-426b-be30-f1208f32ff36",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which protein in red blood cells carries oxygen? [Set 7]",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Hemoglobin",
+      "Albumin"
+    ],
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": 10189,
+    "uuid": "de20f9e4-e44a-4cb4-bf79-c3a7e3b0c67c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "Which organ is primarily responsible for detoxification? [Set 7]",
+    "options": [
+      "Kidney",
+      "Liver",
+      "Lung",
+      "Pancreas"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": 10190,
+    "uuid": "d202eb32-d1ba-439e-90e3-5664c59e5bca",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which gland regulates metabolism through hormone secretion? [Set 7]",
+    "options": [
+      "Adrenal",
+      "Thyroid",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "answer": "Thyroid"
+  },
+  {
+    "id": 10191,
+    "uuid": "bfd694ac-3d04-4473-905c-7dac2a0eb3ac",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 1,
+    "question": "What term describes organisms that produce their own food? [Set 7]",
+    "options": [
+      "Consumers",
+      "Decomposers",
+      "Producers",
+      "Parasites"
+    ],
+    "answer": "Producers"
+  },
+  {
+    "id": 10192,
+    "uuid": "7228b26e-2c25-403a-8c5a-53d874dae104",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 2,
+    "question": "Which biome is characterized by permafrost? [Set 7]",
+    "options": [
+      "Desert",
+      "Savanna",
+      "Tundra",
+      "Rainforest"
+    ],
+    "answer": "Tundra"
+  },
+  {
+    "id": 10193,
+    "uuid": "b4e6c5ea-9f44-43a5-9b40-dc40c22f2dff",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 3,
+    "question": "What is the main source of energy for almost all ecosystems? [Set 7]",
+    "options": [
+      "Wind",
+      "Water",
+      "Sunlight",
+      "Soil"
+    ],
+    "answer": "Sunlight"
+  },
+  {
+    "id": 10194,
+    "uuid": "50243ec6-74b4-4328-aadf-3df4d9c455a7",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 4,
+    "question": "What is the symbiotic relationship where both species benefit? [Set 7]",
+    "options": [
+      "Parasitism",
+      "Commensalism",
+      "Mutualism",
+      "Predation"
+    ],
+    "answer": "Mutualism"
+  },
+  {
+    "id": 10195,
+    "uuid": "20cb548d-fcb7-4536-b338-6a4c6fd0f327",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 5,
+    "question": "Which gas do plants absorb during photosynthesis? [Set 7]",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 10196,
+    "uuid": "9fd91d12-2d90-4237-9ad6-3ac820b79303",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 6,
+    "question": "Who proposed the theory of natural selection? [Set 7]",
+    "options": [
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Robert Hooke"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 10197,
+    "uuid": "b9eabdc0-5feb-490d-b386-8eb8815e4da6",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 7,
+    "question": "What term describes structures that are similar due to shared ancestry? [Set 7]",
+    "options": [
+      "Analogous",
+      "Homologous",
+      "Vestigial",
+      "Derived"
+    ],
+    "answer": "Homologous"
+  },
+  {
+    "id": 10198,
+    "uuid": "5a4dd1e2-6571-4be2-bbb1-71aa92c19622",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 8,
+    "question": "Which term refers to the random change in allele frequency in small populations? [Set 7]",
+    "options": [
+      "Natural selection",
+      "Genetic drift",
+      "Mutation",
+      "Speciation"
+    ],
+    "answer": "Genetic drift"
+  },
+  {
+    "id": 10199,
+    "uuid": "2280d6d8-4518-49ba-bc42-b73e18ac477c",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 9,
+    "question": "What is the preserved remains of ancient organisms called? [Set 7]",
+    "options": [
+      "Fossil",
+      "Mineral",
+      "Imprint",
+      "Sediment"
+    ],
+    "answer": "Fossil"
+  },
+  {
+    "id": 10200,
+    "uuid": "55c9fd54-0ef3-46d2-ab89-6dfc4144cf4b",
+    "topic": "biology",
+    "created_at": "2025-09-29T15:33:36",
+    "type": "multiple_choice",
+    "difficulty": 10,
+    "question": "Which islands did Darwin study finches that influenced his theory? [Set 7]",
+    "options": [
+      "Hawaiian",
+      "Gal\u00e1pagos",
+      "Philippines",
+      "Caribbean"
+    ],
+    "answer": "Gal\u00e1pagos"
   }
 ]

@@ -68,7 +68,7 @@ export default function Game() {
     // If no category chosen, show category picker
     if (!category) {
         return (
-            <ScrollView style={styles.container}>
+            <ScrollView contentContainerStyle={styles.container}>
                 <Text style={styles.title}>Choose a Category</Text>
                 <TouchableOpacity style={styles.resetButton} onPress={resetSession}>
                     <Text style={styles.resetText}>🔄 Reset Game</Text>
@@ -126,7 +126,7 @@ export default function Game() {
 }
 
 const styles = StyleSheet.create({
-    container: { flex: 1, justifyContent: "center", padding: 20 },
+    container: { flex: 1, justifyContent: "center", padding: 20, paddingVertical: 60 },
     title: { fontSize: 22, fontWeight: "bold", marginBottom: 20 },
     score: { fontSize: 18, marginBottom: 10 },
     timer: { fontSize: 18, color: "red", marginBottom: 20 },
